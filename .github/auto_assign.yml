@@ -7,8 +7,8 @@ addAssignees: false
 # A list of reviewers to be added to pull requests (GitHub user name)
 reviewers:
   - maheshkasabe # Aditya Bharadwaj
-  - mrhacker4657 #(optional)  - tmmurali
+  #(optional)  - tmmurali
 
 # A number of reviewers added to the pull request
 # Set 0 to add all the reviewers (default: 0)
-numberOfReviewers: 2
+numberOfReviewers: 0
