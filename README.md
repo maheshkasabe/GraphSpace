@@ -1,4 +1,4 @@
-GraphSpace Project
+GraphSpace Project 
 ================
 
 GraphSpace is running at http://graphspace.org
